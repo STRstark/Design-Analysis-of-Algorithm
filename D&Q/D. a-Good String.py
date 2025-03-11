@@ -16,4 +16,3 @@ for _ in range(x):
     x = int(input())
     S = input()
     print(calc(S , 'a'))
-
